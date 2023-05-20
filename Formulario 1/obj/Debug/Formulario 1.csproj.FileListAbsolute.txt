@@ -1,0 +1,30 @@
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formulario 1.csproj.AssemblyReference.cache
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formulario 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formulario_1.Form1.resources
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formulario_1.Properties.Resources.resources
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formulario 1.csproj.GenerateResource.cache
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formulario 1.csproj.CoreCompileInputs.cache
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\bin\Debug\Formulario 1.exe.config
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\bin\Debug\Formulario 1.exe
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\bin\Debug\Formulario 1.pdb
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\bin\Debug\Librería 1.dll
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\bin\Debug\Librería 1.pdb
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formulario 1.csproj.CopyComplete
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formulario 1.exe
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formulario 1.pdb
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formulario_1.Form2.resources
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\bin\Debug\Formulario 1.exe.config
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\bin\Debug\Formulario 1.exe
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\bin\Debug\Formulario 1.pdb
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\bin\Debug\Librería 1.dll
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\bin\Debug\Librería 1.pdb
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario 1.csproj.AssemblyReference.cache
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario_1.Form1.resources
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario_1.Form2.resources
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario_1.Properties.Resources.resources
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario 1.csproj.GenerateResource.cache
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario 1.csproj.CoreCompileInputs.cache
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario 1.csproj.CopyComplete
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario 1.exe
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario 1.pdb

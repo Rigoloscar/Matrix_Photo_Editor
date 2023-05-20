@@ -1,0 +1,105 @@
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\bin\Debug\Formulario 1.exe.config
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\bin\Debug\Formulario 1.exe
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\bin\Debug\Formulario 1.pdb
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\bin\Debug\Librería 1.dll
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\bin\Debug\Librería 1.pdb
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formularios.csproj.SuggestedBindingRedirects.cache
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario_1.Properties.Resources.resources
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario 1.exe
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario 1.pdb
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formularios.Programa_principal.resources
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formularios.Mostrar_datos.resources
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario_1.Créditos.resources
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario_1.Salir.resources
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario_1.Voltear.resources
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario_1.Recortar.resources
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\bin\Debug\Formulario 1.exe.config
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\bin\Debug\Formulario 1.exe
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\bin\Debug\Formulario 1.pdb
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\bin\Debug\Librería 1.dll
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\bin\Debug\Librería 1.pdb
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formularios.csproj.SuggestedBindingRedirects.cache
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formulario_1.Créditos.resources
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formulario_1.Recortar.resources
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formularios.Programa_principal.resources
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formularios.Mostrar_datos.resources
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formulario_1.Properties.Resources.resources
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formulario_1.Salir.resources
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formulario_1.Voltear.resources
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formulario 1.exe
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formulario 1.pdb
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario_1.Girar.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\bin\Debug\Formulario 1.exe.config
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\bin\Debug\Formulario 1.exe
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\bin\Debug\Formulario 1.pdb
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\bin\Debug\Librería 1.dll
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\bin\Debug\Librería 1.pdb
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formularios.csproj.SuggestedBindingRedirects.cache
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario_1.Créditos.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formularios.Programa_principal.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formularios.Mostrar_datos.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario_1.Properties.Resources.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario_1.Salir.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario_1.Voltear.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario 1.exe
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario 1.pdb
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario_1.Presentación.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario_1.Enmarcar.resources
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formulario_1.Enmarcar.resources
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formulario_1.Presentación.resources
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formulario_1.Girar.resources
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formulario_1.Intensidad.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario_1.Girar.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario_1.Intensidad.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario_1.Brillo.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\bin\Debug\System.Data.SQLite.dll
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario_1.Autentificación.resources
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\bin\Debug\System.Data.SQLite.dll
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formulario_1.Autentificación.resources
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formulario_1.Brillo.resources
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Formulario 1\obj\Debug\Formulario_1.Administración.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario_1.Administración.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario_1.Ajustes.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario_1.Desenfoque.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Proyecto\Formulario 1\obj\Debug\Formulario_1.Selecionar.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\bin\Debug\Formulario 1.exe.config
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\bin\Debug\Formulario 1.exe
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\bin\Debug\Formulario 1.pdb
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\bin\Debug\Librería 1.dll
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\bin\Debug\System.Data.SQLite.dll
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\bin\Debug\Librería 1.pdb
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\obj\Debug\Formularios.csproj.AssemblyReference.cache
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\obj\Debug\Formularios.csproj.SuggestedBindingRedirects.cache
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\obj\Debug\Formulario_1.Ajustes.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\obj\Debug\Formulario_1.Autentificación.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\obj\Debug\Formulario_1.Brillo.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\obj\Debug\Formulario_1.Créditos.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\obj\Debug\Formulario_1.Desenfoque.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\obj\Debug\Formulario_1.Enmarcar.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\obj\Debug\Formulario_1.Administración.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\obj\Debug\Formulario_1.Girar.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\obj\Debug\Formulario_1.Intensidad.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\obj\Debug\Formulario_1.Presentación.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\obj\Debug\Formulario_1.Selecionar.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\obj\Debug\Formularios.Programa_principal.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\obj\Debug\Formularios.Mostrar_datos.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\obj\Debug\Formulario_1.Properties.Resources.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\obj\Debug\Formulario_1.Salir.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\obj\Debug\Formulario_1.Voltear.resources
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\obj\Debug\Formulario 1.exe
+C:\Users\rigol\Desktop\Òscar Rigol\UPC\Quatrimestre 2\Programación\Matrix Photo Editor\Formulario 1\obj\Debug\Formulario 1.pdb

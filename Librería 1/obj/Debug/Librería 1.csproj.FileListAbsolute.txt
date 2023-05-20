@@ -1,0 +1,12 @@
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Librería 1\bin\Debug\Librería 1.dll
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Librería 1\bin\Debug\Librería 1.pdb
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Librería 1\obj\Debug\Librería 1.csproj.AssemblyReference.cache
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Librería 1\obj\Debug\Librería 1.csproj.CoreCompileInputs.cache
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Librería 1\obj\Debug\Librería 1.dll
+C:\Users\rigol\OneDrive\Escritorio\Óscar Rigol\Telecos\Quatrimestre 2\Projecte de Programació\Proyecto\Librería 1\obj\Debug\Librería 1.pdb
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Librería 1\bin\Debug\Librería 1.dll
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Librería 1\bin\Debug\Librería 1.pdb
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Librería 1\obj\Debug\Librería 1.csproj.AssemblyReference.cache
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Librería 1\obj\Debug\Librería 1.csproj.CoreCompileInputs.cache
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Librería 1\obj\Debug\Librería 1.dll
+C:\Users\rigol\Desktop\Òscar Rigol\Telecos\Quatrimestre 2\Programación\Proyecto\Librería 1\obj\Debug\Librería 1.pdb

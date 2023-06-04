@@ -1,7 +1,7 @@
 # Matrix_Photo_Editor
 Editing images in C# with linear algebra properties
 _______________________________________________________________________________________________________________________________________________________________________________
-This software has been developed as a project for the Polithecnical University of Catalonia - BarcelonaTech, 
+This software has been developed as a project for the Polytechnical University of Catalonia - BarcelonaTech, 
 specifically for the double degree in Aerospace Engineering and Telecomunication Engineering.
 
 After that being stated, submitting this project as own in any university shall be considered a punishable and henious violation of the academic law in which I DO declare to 
